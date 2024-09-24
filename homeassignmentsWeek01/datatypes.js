@@ -1,0 +1,10 @@
+let firstName= "Nithya";
+console.log(typeof firstName);
+let CompanyName= `Testleaf`;
+console.log(typeof CompanyName);
+let mobileNumber= 9999999999;
+console.log(typeof mobileNumber);
+let isAutomation = true;
+console.log(typeof isAutomation);
+let hasPlaywright;
+console.log(typeof hasPlaywright);
